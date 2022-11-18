@@ -1,0 +1,43 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    border: 0;
+}
+.encabezado_AGM{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedor_AGM{
+    background-color: rgb(103, 27, 85);
+}
+.parrafo_AGM{
+    width: 60%;
+    padding: 10px;
+    background-color: aqua;
+    margin: auto;
+}
+p{
+    color: rgb(65, 43, 16);
+    font-size: 2em;
+    padding: 10px;
+    background-color: bisque;
+}
+img{
+    width: 100%;
+    object-fit: cover;
+    height: auto;
+}
+h1{
+    color: aliceblue;
+    background-color: aquamarine;
+    font-size: 3em;
+    padding: auto;
+}
+ul{
+    color:  rgb(65, 43, 16);
+    font-size: auto;
+    background-color: aqua;
+    padding: 2em;
+}
